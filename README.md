@@ -1,5 +1,6 @@
 # linear_regression
 Name : Nadhifa Sofia
+
 NIM : 19/448721/PPA/05804
 
 This is my assignment of Data Preprocessing on Data Science Class. 
