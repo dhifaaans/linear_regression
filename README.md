@@ -1,9 +1,6 @@
 # linear_regression
 Name : Nadhifa Sofia
 
-NIM : 19/448721/PPA/05804
-
-This is my assignment of Data Preprocessing on Data Science Class. 
 The assignment is about determining the linear regression of 2 features on the scraped data. The dataset itself was taken from  https://www.the-numbers.com/movie/budgets/all/2501. 
 On this assignment, columns that are used : Production Budget and Worldwide Gross. 
 
